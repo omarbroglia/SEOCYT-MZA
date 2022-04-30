@@ -6,8 +6,8 @@
 body {
   font-family: "monserrat", sans-serif;
   overflow-x: hidden;
-  background-color: black ; }
-
+   }
+ 
 #menu li > a {
   font-size: 18px;
   font-weight: bold;
@@ -16,6 +16,8 @@ body {
 #menu form > button {
   font-size: 18px;
   font-weight: bold; }
+
+  
 
 .carousel-inner {
   max-height: 39rem; }
@@ -28,6 +30,16 @@ body {
   background-color: #193b8bde;
   min-height: 500px;
   position: relative; }
+
+  #contenedor-formulario {
+  
+    background: #fbfafad7;
+    border-radius: 5px;
+    max-width: 500px;
+    margin-top: 5%; }
+  
+  #titulo-formulario {
+    color: #3f3f3f; }
 
 
 
